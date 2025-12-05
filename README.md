@@ -130,8 +130,8 @@ They answer N correct answers (e.g., 4–7 depending on setup)
 Robot **wins** if:
 It reaches the target distance (tracked by odometry-like timer-based simulation), or All questions are exhausted without enough correct answers
 
-Authors
 
-HRI Course Project
-TurtleBot4 • ROS2 Humble • OAK-D Camera
-Team Members: Xingtai Huang / Xueer Zhang / Maggie Liang (Cornell Tech HRI)
+## Authors
+#### HRI Course Project
+#### TurtleBot4 • ROS2 Humble • OAK-D Camera
+#### Team Members: **Xingtai Huang / Xueer Zhang / Maggie Liang** (Cornell Tech HRI)
