@@ -1,0 +1,22 @@
+game_controller:
+  ros__parameters:
+    initial_speed: 0.20
+    speed_step: 0.05
+    min_speed: 0.05
+    max_speed: 0.60
+    stop_distance: 0.50
+    max_questions: 10
+    win_correct_needed: 7
+    tts_backend: "auto"
+
+color_detector:
+  ros__parameters:
+    image_topic: "/camera/color/image_raw"
+    area_threshold: 5000
+    green_low: [35, 60, 60]
+    green_high: [85, 255, 255]
+    red1_low: [0, 70, 60]
+    red1_high: [10, 255, 255]
+    red2_low: [170, 70, 60]
+    red2_high: [180, 255, 255]
+    debounce_sec: 0.4
