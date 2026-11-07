@@ -134,4 +134,34 @@ It reaches the target distance (tracked by odometry-like timer-based simulation)
 ## Authors
 #### HRI Course Project
 #### TurtleBot4 • ROS2 Humble • OAK-D Camera
-#### Team Members: **Xingtai Huang / Xueer Zhang / Maggie Liang** (Cornell Tech HRI)
+#### Cornell Tech Human Robot Interaction
+#### Team Members:
+<table>
+  <tr>
+    <!-- 1. Xingtai Huang -->
+    <td align="center" width="150px">
+      <a href="https://github.com">
+        <img src="https://weserv.nl" width="100px;" alt="Xingtai Huang"/><br />
+        <sub><b>Xingtai Huang</b></sub>
+      </a><br />
+      <sub>(@OHXTO)</sub>
+    </td>
+    <!-- 2. Xueer Zhang -->
+    <td align="center" width="150px">
+      <a href="https://github.com">
+        <img src="https://weserv.nl" width="100px;" alt="Xueer Zhang"/><br />
+        <sub><b>Xueer Zhang</b></sub>
+      </a><br />
+      <sub>(@xz946-maker)</sub>
+    </td>
+    <!-- 3. Maggie Liang (通过内置 SVG 完美渲染) -->
+    <td align="center" width="150px">
+      <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://w3.org">
+        <circle cx="50" cy="50" r="48" fill="#F0F4F8" stroke="#D0D7DE" stroke-width="2"/>
+        <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="28" font-weight="bold" fill="#57606A">ML</text>
+      </svg><br />
+      <sub><b>Maggie Liang</b></sub><br />
+      <sub>(Contributor)</sub>
+    </td>
+  </tr>
+</table>
